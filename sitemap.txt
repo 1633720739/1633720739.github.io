@@ -1,0 +1,3 @@
+http://example.com/ABOUT/index.html
+http://example.com/year/08/18/%E5%BA%8F%E5%B9%95/
+http://example.com/
