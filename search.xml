@@ -3,18 +3,14 @@
   <entry>
     <title>关于搭建博客的想法以及目的</title>
     <url>/year/08/18/%E5%BA%8F%E5%B9%95/</url>
-    <content><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <content><![CDATA[<pre><code>             这世上只有一种成功，就是能够用自己喜欢的方式度过自己的一生。——《头文字D》
+</code></pre>
+<p><img src="/img/%E5%AD%A6%E4%B9%A0%E7%9B%AE%E7%9A%84.png" alt="学习目的"></p>
+<h2 id=""><a href="#" class="headerlink" title=""></a></h2><ul>
+<li><strong>加深对技术点的理解，记录足迹，反映成长</strong><br>记录足迹，反映成长：写博客实际上是记录一个人思考和解决问题的成长过程。很久之后，你再翻看自己以前写的文章，你会感觉得到自己的点滴变化和进步。写博客就像种一颗种子，只要记得浇水、施肥、除草和松土，秋天就会有收获</li>
+<li><strong>分类检索，方便日后查阅</strong><br>博客就像一本书，有书名，有目录，有内容，个人都对博文进行了分类，喜欢看哪一类文章，直接去查询即可。关键词搜索也非常便捷，需要看谁的哪类型的文章，输上关键词，就有一组文章呈现出来，供你挑选阅读，它比查阅纸质书本还要方便，若写文章需要引用部分内容，直接复制过来就是了，方便得很。</li>
+<li><strong>提高自己的思维能力，促进学习，锻炼大脑</strong><br>看书、写博文就会经常动脑，爱动脑大脑就不会生诱变笨，经常写博客，就象经常练习脑保健操一样，天天做，月月想，能够让大脑一直得到锻炼，对于一个要靠脑袋来生活的人来讲，非常有价值。<br>博客写多了，你的逻辑思维是很强的，解决问题的思路会非常清晰，有利于程序员的长远发展。</li>
+</ul>
 ]]></content>
   </entry>
 </search>
