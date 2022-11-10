@@ -29,10 +29,12 @@
 <p>hexo s &#x3D;&#x3D; hexo server #启动服务预览</p>
 <p>hexo d &#x3D;&#x3D; hexo deploy #部署</p>
 <p>hexo server #Hexo会监视文件变动并自动更新，无须重启服务器 （可进行预览编辑）</p>
+<p><img src="/img/hexos.png" alt="hexos"></p>
 <p>hexo server -s #静态模式          </p>
 <p>hexo server -p 5000 #更改端口 （一般不需要）</p>
 <p>hexo server -i 192.168.1.1 #自定义 IP （一般不需要）</p>
 <p>hexo clean #清除缓存 （若是网页正常情况下可以忽略这条命令 ）</p>
-<h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1>]]></content>
+<h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><h3 id="上面只是在本地预览，接下来要做的就是就是推送网站，也就是发布网站，让我们的网站可以被更多的人访问。在设置之前，需要解释一个概念，在blog根目录里的-config-yml文件称为站点配置文件，如下图"><a href="#上面只是在本地预览，接下来要做的就是就是推送网站，也就是发布网站，让我们的网站可以被更多的人访问。在设置之前，需要解释一个概念，在blog根目录里的-config-yml文件称为站点配置文件，如下图" class="headerlink" title="上面只是在本地预览，接下来要做的就是就是推送网站，也就是发布网站，让我们的网站可以被更多的人访问。在设置之前，需要解释一个概念，在blog根目录里的_config.yml文件称为站点配置文件，如下图"></a>上面只是在本地预览，接下来要做的就是就是推送网站，也就是发布网站，让我们的网站可以被更多的人访问。在设置之前，需要解释一个概念，在blog根目录里的_config.yml文件称为站点配置文件，如下图</h3><p><img src="/img/yml%E7%AB%99%E7%82%B9%E6%96%87%E4%BB%B6.png" alt="yml站点文件"></p>
+]]></content>
   </entry>
 </search>
